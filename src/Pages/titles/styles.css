@@ -1,0 +1,27 @@
+.titles_list {
+    margin: 20px auto 0;
+    padding: 0 10px;
+}
+
+.titles_list article {
+    background: #ffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.titles_list p {
+    color: brown;
+}
+
+.year {
+    max-height: 5px;
+    background: #E1E1E1;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    padding: 7px;
+    margin-bottom: 20px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
